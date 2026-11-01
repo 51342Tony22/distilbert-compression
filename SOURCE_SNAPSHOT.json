@@ -1,0 +1,146 @@
+{
+  "snapshot_date": "2026-11-01",
+  "description": "Selected source files and saved reports. Digests describe copied files before GitHub packaging documentation was added.",
+  "files": [
+    {
+      "path": "nltk_resources.py",
+      "sha256": "c5fb3ff709e3754a1d637a189924a05c05dbf09581333608da9aad2f30bbfa42"
+    },
+    {
+      "path": "prepare_data.py",
+      "sha256": "0829a85160dfcef7fd04f0eac2aa69c1823a1bc871319bd3e916a1bcf7b0ac44"
+    },
+    {
+      "path": "evaluation.py",
+      "sha256": "f58c40e227029b07152ac567b5ba8a653a9bdbae9a178f44dbbf349771b32c3f"
+    },
+    {
+      "path": "augmentation.py",
+      "sha256": "f8a48025e88a47de6744989bbbee9771ca452934340e23692a70c237ab35b112"
+    },
+    {
+      "path": "evaluate_stability.py",
+      "sha256": "add3af3d2dcdf5295305d007e748faea77e67053c5d4092efe66066795e539a8"
+    },
+    {
+      "path": "prepare_source_data.py",
+      "sha256": "13182d545bf90e84e19db684006cd002a5f16e675e10c0f4776a479c42a92f99"
+    },
+    {
+      "path": "evaluate_input_safety.py",
+      "sha256": "d2bb09a560b375fbd9b6bf498cc0f99d007a98ebe0308240171150bba3be8492"
+    },
+    {
+      "path": "runtime.py",
+      "sha256": "6be58715324bd6f7a98cc098112629852ec426973b3469676986407d1429a7e2"
+    },
+    {
+      "path": "model.py",
+      "sha256": "1131ee79abf34a437c6b38d1d4914c573f67bf04d27f24218c990ff18ec2f32e"
+    },
+    {
+      "path": "dataset.py",
+      "sha256": "b7897e0b30cdae4e58223673dbc1f91bcce4f5612536f0256b5004df84d32de0"
+    },
+    {
+      "path": "run_pipeline.py",
+      "sha256": "a4dcb3e02778b679cc84f915e5ed1f2786d9acb1b608ffd98f8b420de093936e"
+    },
+    {
+      "path": "preprocessing.py",
+      "sha256": "7e3514f9ae798445b9c7fe4ae8668739fe14a017174604273d3267765a9402d7"
+    },
+    {
+      "path": "data_analysis.py",
+      "sha256": "af312282258ff7e43734268ff163ae5ee21b34a2d55025b1ba0bb120b51128bd"
+    },
+    {
+      "path": "train_final_model.py",
+      "sha256": "0509955249d73bb64986c55351d553ba0011a494967aa571549bc9760307c328"
+    },
+    {
+      "path": "run_experiments.py",
+      "sha256": "196e75cffcf9e9292c026c6c23ec4a5216f627eccb5ee44c935d3d2162620988"
+    },
+    {
+      "path": "evaluate_final_model.py",
+      "sha256": "1c8b8135c9203ae77af75060ecbd7d4ed433ac14d5a0e30b253c2e153c04986d"
+    },
+    {
+      "path": "text_cleaning.py",
+      "sha256": "38c513703b939d6572e6bea927cdadeee5ebcb38cbd4c3d7ee993edb1c9f9d9e"
+    },
+    {
+      "path": "training.py",
+      "sha256": "73ca0ab4f097c513c960bd306b8a8418b1d355b7523e10ed6d04e17f4465992a"
+    },
+    {
+      "path": "data_quality.py",
+      "sha256": "9d5e80bb7be84685d4b7dc98bf759c8320c9a7ba14ce050800b9c07c6b8a48ad"
+    },
+    {
+      "path": "evaluate_quantization.py",
+      "sha256": "eaf136581e86181d10d9cba8ab0135dcfffefba02aa6dfb6234e19339cc66a74"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "61ceef3dcae7fbe849c601eedf122239e6456a50fa62e2190841b368aefb62c1"
+    },
+    {
+      "path": "REPORT_ZH.md",
+      "sha256": "2bee26b5990b3266827b1995136df81074700c354c7d06be6aa4def1b4106bed"
+    },
+    {
+      "path": "outputs/test_results/final_test_results.csv",
+      "sha256": "bc492d4e31211764e8832b4b1ab6630889cbc901669f68c60ec155d13d24b695"
+    },
+    {
+      "path": "outputs/test_results/final_test_summary.csv",
+      "sha256": "8a23b30213a533218e59bfcbe64192e02bc732e4b1f83f73b9fc37c39429ffea"
+    },
+    {
+      "path": "outputs/test_results/fp32_4_layer_structured_pruned_distilbert_classification_report.csv",
+      "sha256": "3bebe53667ba7d5f333299e06d3038a473d3b74165c4aa5d31832536315cfb56"
+    },
+    {
+      "path": "outputs/test_results/fp32_4_layer_structured_pruned_distilbert_confusion_matrix.csv",
+      "sha256": "f411998b895698ac831775f82e21a03462040734764913b4643827664db306de"
+    },
+    {
+      "path": "outputs/test_results/fp32_4_layer_structured_pruned_distilbert_predictions.csv",
+      "sha256": "aad153f36cfce906931a341a5803762742cb44645218697dc68ba613ad46c9a4"
+    },
+    {
+      "path": "outputs/test_results/int8_all_linear_4_layer_distilbert_classification_report.csv",
+      "sha256": "3bebe53667ba7d5f333299e06d3038a473d3b74165c4aa5d31832536315cfb56"
+    },
+    {
+      "path": "outputs/test_results/int8_all_linear_4_layer_distilbert_confusion_matrix.csv",
+      "sha256": "f411998b895698ac831775f82e21a03462040734764913b4643827664db306de"
+    },
+    {
+      "path": "outputs/test_results/int8_all_linear_4_layer_distilbert_predictions.csv",
+      "sha256": "aad153f36cfce906931a341a5803762742cb44645218697dc68ba613ad46c9a4"
+    },
+    {
+      "path": "outputs/quantization/quantization_sensitivity_comparison.csv",
+      "sha256": "1ad1b0a3eaface0393c963383080858ffbccad97879a2cb4a56d726f9abe522e"
+    },
+    {
+      "path": "outputs/stability_results/stability_final_summary.csv",
+      "sha256": "feecd5201382639a5a75f34f975605a0d57a52906f386b88031d4a6679982fc5"
+    },
+    {
+      "path": "outputs/stability_results/stability_summary.csv",
+      "sha256": "18c7eca6bfc9a67a20f13f4530b39a4d719a909cddb9a717af41ee599e06a2a0"
+    },
+    {
+      "path": "outputs/stability_results/stability_test_results.csv",
+      "sha256": "4d5d067c4e5ff241c8bef273aa33bdbf2a826d871ccd64d4cfd87d88b5951910"
+    },
+    {
+      "path": "outputs/logs/final_training_log.csv",
+      "sha256": "8c3519da0b6bf2485ca3b66f1776ba94823fc65c89a904317ebd420fac857813"
+    }
+  ]
+}
